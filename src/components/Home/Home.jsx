@@ -26,11 +26,11 @@ const HIGHLIGHT_CONFIG = [
   { categoria: 'Rabas', titulo: 'Torre de rabas', nombre: 'Torre de rabas', imagen: '/destacados/torre-de-rabas.jpg' },
   {
     categoria: 'Langostinos',
-    titulo: 'Porción',
-    nombre: 'Porción de langostinos',
+    titulo: 'Cono',
+    nombre: 'Cono de langostinos',
     imagen: '/destacados/langostinos.jpg',
   },
-  { categoria: 'Nuggets', titulo: 'Porción Golden', nombre: 'Nuggets Golden', imagen: '/destacados/nuggets.jpg' },
+  { categoria: 'Combos', titulo: 'Di Mare', nombre: 'Combo Di Mare', imagen: '/destacados/di-mare.jpg' },
 ]
 
 const scrollToLocation = () => {

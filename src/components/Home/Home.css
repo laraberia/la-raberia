@@ -373,7 +373,7 @@
 }
 
 .home-dish__photo {
-  height: 130px;
+  aspect-ratio: 1;
   background: #f2e9cf;
 }
 
